@@ -206,6 +206,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.visionify.ai/scenarios/environment-co/</loc>
+         <lastmod>2023-03-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.visionify.ai/scenarios/environment-dust/</loc>
+         <lastmod>2023-03-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.visionify.ai/scenarios/environment-energy-usage/</loc>
          <lastmod>2023-03-16</lastmod>
          <changefreq>daily</changefreq>
@@ -227,6 +237,11 @@
     </url>
     <url>
          <loc>https://docs.visionify.ai/scenarios/environment-radiation/</loc>
+         <lastmod>2023-03-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.visionify.ai/scenarios/environment-voc/</loc>
          <lastmod>2023-03-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -401,6 +416,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.visionify.ai/scenarios/sexual-harassment/</loc>
+         <lastmod>2023-03-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.visionify.ai/scenarios/shipping-activity/</loc>
          <lastmod>2023-03-16</lastmod>
          <changefreq>daily</changefreq>
@@ -457,6 +477,11 @@
     </url>
     <url>
          <loc>https://docs.visionify.ai/scenarios/test/</loc>
+         <lastmod>2023-03-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.visionify.ai/scenarios/theft/</loc>
          <lastmod>2023-03-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
